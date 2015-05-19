@@ -1,0 +1,1 @@
+/ECShop/includes/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.php 

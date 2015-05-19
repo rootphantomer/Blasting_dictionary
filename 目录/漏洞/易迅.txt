@@ -1,0 +1,1 @@
+/User/User_Message.asp?Action=Del&ManageType=Inbox&MessageID=90
