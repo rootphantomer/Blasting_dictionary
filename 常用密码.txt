@@ -1,4 +1,4 @@
-admin
+﻿admin
 admin12
 admin888
 admin8
@@ -78,8 +78,6 @@ qwe
 qwer
 welcome
 !@#123
-*******
-10011C120105101
 111
 12
 123
@@ -160,7 +158,6 @@ evil
 evilhack
 evilhacker
 evilhk
-F.S.T
 f19ht
 fclshark
 fight
@@ -171,7 +168,6 @@ fuckhack
 fuckhacker
 fuckit
 FuckYou
-G.xp
 ghost
 gxp
 h4ck
@@ -298,9 +294,6 @@ $secure$
 A.M.I
 ABC123
 $$$$
-******
-....
-.575783.
 54
 1000
 102
